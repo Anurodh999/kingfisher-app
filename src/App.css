@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+font-family: sans-serif;
+text-align: center;
+padding: 2rem;
+background-color: #f8f9fa;
+}
+
+pre {
+text-align: left;
+background-color: #fff;
+padding: 1rem;
+border-radius: 6px;
+overflow-x: auto;
+border: 1px solid #ccc;
+}
